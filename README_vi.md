@@ -24,7 +24,7 @@
    <a href="https://github.com/qnblackcat/uYouPlus#support-the-developers"><img src="https://img.shields.io/badge/-Support-lightgrey?style=social&logo=paypal" alt="Badge"></img></a>
 </p>
 
-# Table of Contents
+# Mục lục
 
 * [Credits](#credits)
 * [Features](#features)
@@ -133,9 +133,9 @@
 </tr>
 </table>
 
-# Features
+# Các tính năng
 
-1. **uYou:** uYou has a ton of features that I can't list them all. Visit [here](https://miro92.com/repo/depictions/?p=com.miro.uyou) for more info!
+1. **uYou:** uYou có rất nhiều tính năng không thể đếm xuể. Xem [tại đây](https://miro92.com/repo/depictions/?p=com.miro.uyou) để biết thêm thông tin!
 
 2. **iSponsorBlock:** Skips annoying sponsor ads inside videos. iSponsorBlock is based on [SponsorBlock engine](https://sponsor.ajay.app/). Basically, this is the iOS version of the SponsorBlock extension.
 
@@ -146,7 +146,7 @@
 <details>
   <summary>And many more...!</summary>
 
-5. **YTAutoFullScreen:** autoplay videos at full screen.
+5. **YTAutoFullScreen:** tự động phát video ở toàn màn hình.
 
 6. **YTClassicVideoQuality:** since YouTube v16.xx, you need one more step to change the video quality. YTClassicVideoQuality brings back the old video quality selector, which is a lot better than the new one.
 
@@ -154,11 +154,11 @@
 
 8. **YouRememberCaption**: make YouTube remember your video caption setting (if not already).
 
-9. **NoYTPremium**: remove YouTube Premium upsells.
+9. **NoYTPremium**: gỡ bỏ quảng cáo YouTube Premium.
 
-10. **YTSpeed**: add 2.25, 2.5, 2.75, and 3x playback speed
+10. **YTSpeed**: thêm tốc độ phát 2.25, 2.5, 2.75, and 3x.
 
-11. **YTMiniplayerEnabler**: enable Miniplayer for all YouTube videos.
+11. **YTMiniplayerEnabler**: bật trình phát thu nhỏ cho tất cả video YouTube.
 
 12. **DontEatMyContent**: prevent the notch/Dynamic Island from munching on 2:1 video content in YouTube.
 
@@ -168,21 +168,21 @@
 
 </details>
 
-# Known issues 
+# Các lỗi đã biết 
 
-- **uYou**: all the known-issues of uYou are listed [here](https://github.com/MiRO92/uYou-for-YouTube/issues). Make sure you take a look at it before reporting any bugs! ***Also, keep in mind that uYou+ is a modified version of uYou, DO NOT bother MiRO92 with problems unrelated to uYou!!!***
+- **uYou**: tất cả các lỗi đã biết của uYou được liệt kê [tại đây](https://github.com/MiRO92/uYou-for-YouTube/issues). Hãy đảm bảo rằng bạn đã xem qua nó trước khi báo lỗi! ***Hãy nhớ rằng uYou+ là phiên bản đã được chỉnh sửa của uYou, ĐỪNG làm phiền MiRO92 with problems unrelated to uYou!!!***
 
 - Issues that related to **uYouPlus** are [here](https://github.com/qnblackcat/uYouPlus/issues/)
 
 # Download
 
-- **uYouPlus** (or you can call it uYou+) requires iOS or iPadOS 14.0 or later. The latest version of **uYouPlus** can be found in the [Release tab](https://github.com/qnblackcat/uYouPlus/releases/latest).
+- **uYouPlus** (hoặc bạn có thể gọi nó là uYou+) yêu cầu iOS or iPadOS 14.0 hoặc mới hơn. Phiên bản mới nhất của **uYouPlus** có thể tìm thấy tại tab [Release](https://github.com/qnblackcat/uYouPlus/releases/latest).
 
-- For AltStore user: 
+- Đối với người dùng AltStore: 
 
-  - My official AltStore repo: https://qnblackcat.github.io/AltStore/
+  - AltStore repo chính thức: https://qnblackcat.github.io/AltStore/
 
-  - [Open in AltStore (v18.01.6-2.3~1)](https://tinyurl.com/bdfmk8em) - It will take a while to install because AltStore needs to download the IPA first.
+  - [Mở trong AltStore (v18.01.6-2.3~1)](https://tinyurl.com/bdfmk8em) - Quá trình cài đặt sẽ mất một lúc khá lâu vì AltStore cần tải IPA xuống trước.
 
 - Version info: _(last update: Jan 18)_
 
@@ -216,10 +216,10 @@
 
 </details>
 
-# Installation
-See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installation).
+# Cài đặt
+Xem [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installation).
 
-# Support the developers
+# Hỗ trợ các nhà phát triển
 - [**MiRO92**](https://twitter.com/miro92): https://github.com/MiRO92/uYou-for-YouTube#support
 - [**Poomsmart**](https://twitter.com/poomsmart): https://poomsmart.github.io
 - [**level3tjg**](https://twitter.com/level3tjg): https://ko-fi.com/level3tjg
@@ -229,9 +229,9 @@ See [Installation - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/Installati
   - Paypal: https://www.paypal.com/paypalme/DBrett684 
   - Venmo: https://venmo.com/u/DavidBrett
 
-# FAQ
+# Các câu hỏi thường gặp
 
-See [FAQ - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/FAQ).
+Xem [FAQ - Wiki](https://github.com/qnblackcat/uYouPlus/wiki/FAQ).
 
 # Building (optional)
 
